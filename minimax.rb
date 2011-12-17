@@ -1,4 +1,4 @@
-#
+# This is the MiniMax Algorithm
 # This program is the AI for 
 # the computer.
 #
@@ -11,6 +11,8 @@
 # 	Choose move that yields maximum score
 # Human's turn:
 # 	Choose move that yields lowest score
+#
+# @author: Irtefa
 require 'tictac_function.rb'
 
 

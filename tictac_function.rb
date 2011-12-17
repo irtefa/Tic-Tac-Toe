@@ -1,6 +1,6 @@
 #
 # Helper Functions
-# Author: Irtefa
+# @author: Irtefa
 #
 
 def check_option(a)

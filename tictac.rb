@@ -1,5 +1,5 @@
 # Tic-Tac-Toe Game
-# Author: Irtefa
+# @author: Irtefa
 require  'tictac_function.rb'
 require  'minimax.rb'
 board = Array.new # Array to set up the board
